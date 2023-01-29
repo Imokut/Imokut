@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imokut
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine Learning tasks using Tensorflow, SCikit-Learn. I deploy my models web(Tensorflow.Js), mobile(Tensorflow lite), Tensorflow data services and tensorflow hub. I'm also an IT automation specialist for Windows and Linux OS. Feel free to contact me for your IT therapy
+- 💞️ I’m looking to collaborate on Machine Learning tasks using Tensorflow, SCikit-Learn. I deploy my models on web(Tensorflow.Js), mobile(Tensorflow lite), Tensorflow data services and tensorflow hub. I'm also an IT automation specialist for Windows and Linux OS. Feel free to contact me for your IT therapy
 - 📫 How to reach me @ 
 - ✉️ : imokutofficial@gmail.com
 - Google Dev: https://g.dev/Imokut
