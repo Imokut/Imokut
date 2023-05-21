@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! I'm excited to share my journey as a machine learning engineer specializing in deep learning and an IBM certified data scientist. With a Bachelor's Degree in Electronics and Communication Engineering from the University of Uyo, I'm dedicated to pushing the boundaries of AI and creating innovative solutions.
 
-## About Me
+## 👤 About Me
 
 I am a passionate machine learning engineer with expertise in deep learning and a strong background in electronics and communication engineering. My journey in the world of programming started when I discovered the immense potential of AI and its ability to transform industries. Since then, I have been dedicated to expanding my knowledge and skills in the field of machine learning.
 
@@ -57,9 +57,6 @@ If you'd like to explore more about me, check out the following:
 - [My Medium](https://medium.com/@imokutofficial)
 
 Thank you for visiting my GitHub profile! If you find my work interesting or inspiring, don't hesitate to leave a ⭐️. Let's push the boundaries of AI together and create a smarter future! 🚀
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![Snake animation](https://github.com/Imokut/Imokut/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
