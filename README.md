@@ -6,11 +6,11 @@
 
 <!--- Imokutmfon Udoh --->
 
-Welcome to my GitHub profile! I'm excited to share my journey as a machine learning engineer specializing in deep learning and an IBM certified data scientist. With a Bachelor's Degree in Electronics and Communication Engineering from the University of Uyo, I'm dedicated to pushing the boundaries of AI and creating innovative solutions.
+Welcome to my GitHub profile! I'm excited to share my journey as a Machine Learning Engineer specializing in Deep Learning and an IBM certified Data Scientist. With a Bachelor's Degree in Electronics and Communication Engineering from the University of Uyo, I'm dedicated to pushing the boundaries of AI and creating innovative solutions.
 
 ## 👤 About Me
 
-I am a passionate machine learning engineer with expertise in deep learning and a strong background in electronics and communication engineering. My journey in the world of programming started when I discovered the immense potential of AI and its ability to transform industries. Since then, I have been dedicated to expanding my knowledge and skills in the field of machine learning.
+I am a passionate Machine Learning Engineer with expertise in Deep Learning and a strong background in Electronics and Communication Engineering. My journey in the world of programming started when I discovered the immense potential of AI and its ability to transform industries. Since then, I have been dedicated to expanding my knowledge and skills in the field of machine learning.
 
 ## 🔭 Current Focus
 
