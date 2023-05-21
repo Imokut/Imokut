@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 # Hello, World! 👋
 
 <!--- Imokutmfon Udoh --->
@@ -53,3 +57,10 @@ If you'd like to explore more about me, check out the following:
 - [My Medium](https://medium.com/@imokutofficial)
 
 Thank you for visiting my GitHub profile! If you find my work interesting or inspiring, don't hesitate to leave a ⭐️. Let's push the boundaries of AI together and create a smarter future! 🚀
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/Imokut/Imokut/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
