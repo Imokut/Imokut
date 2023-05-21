@@ -16,7 +16,7 @@ I am a passionate Machine Learning Engineer with expertise in Deep Learning and 
 
 <!--- Deep Learning --->
 
-I am currently dedicated to leveraging GPT models to build interactive applications. My focus lies in exploring the potential of GPT models for natural language generation and creating engaging and dynamic user experiences. I am excited about the possibilities of combining the power of GPT models with intuitive interfaces to develop innovative and interactive applications.
+I am currently dedicated to leveraging large language models like GPT to build interactive applications. My focus lies in exploring the potential of large language models for natural language generation and creating engaging and dynamic user experiences. I am excited about the possibilities of combining the power of GPT models with intuitive interfaces to develop innovative and interactive applications.
 
 <!--- I am currently interning at the Ibom Airport Development Company, where I am applying my expertise in deep learning to develop intelligent solutions for airport operations. My focus lies in leveraging TensorFlow and other cutting-edge technologies to optimize processes, enhance security measures, and improve overall efficiency in the aviation industry. --->
 
