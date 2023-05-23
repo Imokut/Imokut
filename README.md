@@ -26,7 +26,7 @@ Here are some of the technologies and tools that I work with:
 
 - Programming Languages: Python, SQL, Javascript, R(Basic)
 - Machine Learning Frameworks: TensorFlow, Keras, Scikit-Learn
-- Deep Learning Architectures: Convolutional Neural Networks(CNNs), RNNs, LSTMs, 
+- Deep Learning Architectures: Convolutional Neural Networks(CNNs), RNNs, LSTMs, GANs
 - Data Manipulation and Analysis: Numpy, Pandas, Matplotlib, Seaborn, Tweepy, Beautiful Soup
 - Cloud Technologies: Google Cloud
 
