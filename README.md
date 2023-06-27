@@ -6,7 +6,7 @@
 
 <!--- Imokutmfon Udoh --->
 
-Welcome to my GitHub profile! I'm excited to share my journey as a Machine Learning Engineer specializing in Deep Learning and an IBM certified Data Scientist. With a Bachelor's Degree in Electronics and Communication Engineering from the University of Uyo, I'm dedicated to pushing the boundaries of AI and creating innovative solutions.
+Welcome to my page! I'm excited to share my journey as a Machine Learning Engineer specializing in Deep Learning and an IBM certified Data Scientist. With a Bachelor's Degree in Electronics and Communication Engineering from the University of Uyo, I'm dedicated to pushing the boundaries of AI and creating innovative solutions.
 
 ## 👤 About Me
 
@@ -42,6 +42,7 @@ Throughout my career, I have had the opportunity to achieve several significant 
 I'm always excited to connect with fellow developers, researchers, and AI enthusiasts. If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me through the following channels:
 
 - Email: imokutofficial@gmail.com
+- [GitHub](https://www.github.com/Imokut)
 - [LinkedIn](https://www.linkedin.com/in/imokutmfon-abasi-udoh/)
 - [Instagram](https://www.instagram.com/imokut/)
 - [Twitter](https://twitter.com/ImokutUdoh)
@@ -56,7 +57,7 @@ If you'd like to explore more about me, check out the following:
 - [My Blog](https://imokut.blogspot.com/)
 - [My Medium](https://medium.com/@imokutofficial)
 
-Thank you for visiting my GitHub profile! If you find my work interesting or inspiring, don't hesitate to leave a ⭐️. Let's push the boundaries of AI together and create a smarter future! 🚀
+Thank you for visiting my page! If you find my work interesting or inspiring, don't hesitate to leave a ⭐️. Let's push the boundaries of AI together and create a smarter future! 🚀
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
