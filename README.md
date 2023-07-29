@@ -44,6 +44,7 @@ I'm always excited to connect with fellow developers, researchers, and AI enthus
 - Email: imokutofficial@gmail.com
 - [GitHub](https://www.github.com/Imokut)
 - [LinkedIn](https://www.linkedin.com/in/imokutmfon-abasi-udoh/)
+- [Google Developer](https://g.dev/Imokut)
 - [Instagram](https://www.instagram.com/imokut/)
 - [Twitter](https://twitter.com/ImokutUdoh)
 
