@@ -36,6 +36,7 @@ Throughout my career, I have had the opportunity to achieve several significant 
 
 - DeepLearning.AI TensorFlow Developer
 - IBM Data Scientist
+- Google Data Analytics
 
 ## 📫 Get in Touch
 
