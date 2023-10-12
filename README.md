@@ -38,27 +38,22 @@ Throughout my career, I have had the opportunity to achieve several significant 
 - IBM Data Scientist
 - Google Data Analytics
 
+## 🌐 Explore More
+
+If you'd like to explore more about me, check out the following:
+
+- [Portfolio](https://imokut.github.io/index.html)
+- [Tableau](https://public.tableau.com/app/profile/imokutmfon.abasi.udoh)
+- [Google Developer](https://g.dev/Imokut)
+
 ## 📫 Get in Touch
 
 I'm always excited to connect with fellow developers, researchers, and AI enthusiasts. If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me through the following channels:
 
 - Email: imokutofficial@gmail.com
-- [Portfolio](https://imokut.github.io/index.html)
 - [LinkedIn](https://www.linkedin.com/in/imokutmfon-abasi-udoh/)
-- [Tableau](https://public.tableau.com/app/profile/imokutmfon.abasi.udoh)
-- [Google Developer](https://g.dev/Imokut)
 - [Instagram](https://www.instagram.com/imokut/)
 - [Twitter](https://twitter.com/ImokutUdoh)
-
-## 🌐 Explore More
-
-<!--- Insert Additional Sections or Links Here --->
-
-If you'd like to explore more about me, check out the following:
-
-- My Portfolio
-- [My Blog](https://imokut.blogspot.com/)
-- [My Medium](https://medium.com/@imokutofficial)
 
 Thank you for visiting my page! If you find my work interesting or inspiring, don't hesitate to leave a ⭐️. Let's push the boundaries of AI together and create a smarter future! 🚀
   
