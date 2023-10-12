@@ -43,7 +43,7 @@ Throughout my career, I have had the opportunity to achieve several significant 
 I'm always excited to connect with fellow developers, researchers, and AI enthusiasts. If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me through the following channels:
 
 - Email: imokutofficial@gmail.com
-- [GitHub](https://www.github.com/Imokut)
+- [Portfolio](https://imokut.github.io/index.html)
 - [LinkedIn](https://www.linkedin.com/in/imokutmfon-abasi-udoh/)
 - [Tableau](https://public.tableau.com/app/profile/imokutmfon.abasi.udoh)
 - [Google Developer](https://g.dev/Imokut)
