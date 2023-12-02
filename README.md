@@ -34,9 +34,9 @@ Here are some of the technologies and tools that I work with:
 
 Throughout my career, I have had the opportunity to achieve several significant milestones and certifications, including:
 
-- DeepLearning.AI TensorFlow Developer
+- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/WT446A4D4XA8)
 - IBM Data Scientist
-- Google Data Analytics
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/VYVXPRG2QUGV)
 
 ## 🌐 Explore More
 
