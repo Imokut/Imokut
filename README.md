@@ -42,7 +42,7 @@ Throughout my career, I have had the opportunity to achieve several significant 
 
 If you'd like to explore more about me, check out the following:
 
-- [Portfolio](https://imokut.github.io/index.html)
+- [Portfolio](https://imokut.github.io/portfolio.html)
 - [Tableau](https://public.tableau.com/app/profile/imokutmfon.abasi.udoh)
 - [Google Developer](https://g.dev/Imokut)
 
